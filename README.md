@@ -20,6 +20,16 @@ https://img.shields.io/badge/React-18.2.0-blue https://img.shields.io/badge/Pyth
 
 🌙 Koyu/Açık tema desteği
 
+
+
+![kayıt ekranı](https://github.com/user-attachments/assets/444d30da-d600-40bb-a53e-03f2cab90dfd)
+
+![giriş ekranı](https://github.com/user-attachments/assets/4a3f5294-45e9-446b-9f8c-d88179702dc2)
+
+![editor](https://github.com/user-attachments/assets/8bf46ae5-b9e0-4cea-ae4f-cdaf51d01221)
+
+
+
 🚀 Hızlı Başlangıç
 Ön Koşullar
 Node.js (v14 veya üzeri)
