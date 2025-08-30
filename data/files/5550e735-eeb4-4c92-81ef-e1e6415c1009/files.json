@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "id": "c08094a3-ed64-4e84-83fc-30f6de1e19f1",
+      "name": "merhaba.py",
+      "type": "file",
+      "path": "merhaba.py",
+      "created_at": "2025-08-18T00:28:51.431185"
+    },
+    {
+      "id": "8d025ad3-b563-444d-87f4-4c470a8ae445",
+      "name": "numpy_ornegi.py",
+      "type": "file",
+      "path": "numpy_ornegi.py",
+      "created_at": "2025-08-18T00:28:51.431185"
+    },
+    {
+      "id": "8de3ed94-878e-4446-a2a2-29c850a9493f",
+      "name": "grafik_ornegi.py",
+      "type": "file",
+      "path": "grafik_ornegi.py",
+      "created_at": "2025-08-18T00:28:51.431185"
+    },
+    {
+      "id": "a14b145d-77ea-4a39-962a-8692e4e9b182",
+      "name": "opencv_ornegi.py",
+      "type": "file",
+      "path": "opencv_ornegi.py",
+      "created_at": "2025-08-18T00:28:51.431185"
+    },
+    {
+      "id": "27371950-4556-468b-a15a-2a2fb4a32438",
+      "name": "deneme.py",
+      "type": "file",
+      "path": "deneme.py",
+      "parent_id": null,
+      "created_at": "2025-08-18T00:28:56.122863"
+    },
+    {
+      "id": "274d4139-b742-43b7-a38c-835343a65613",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-18T01:11:00.097123"
+    }
+  ]
+}

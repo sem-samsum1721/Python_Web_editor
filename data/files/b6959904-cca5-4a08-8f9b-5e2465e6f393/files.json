@@ -1,0 +1,78 @@
+{
+  "files": [
+    {
+      "id": "d83a0dbe-d402-42a5-9c6d-71b67f4353a2",
+      "name": "yeni_klasor",
+      "type": "folder",
+      "path": "yeni_klasor",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:03:17.754791"
+    },
+    {
+      "id": "60e7972e-002f-47a5-9128-ebb747f6978a",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:03:33.867790"
+    },
+    {
+      "id": "9060c590-810c-4ddd-b578-87ae198de8b5",
+      "name": "yeni_klasor",
+      "type": "folder",
+      "path": "yeni_klasor",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:03:42.659989"
+    },
+    {
+      "id": "b5e00896-dc02-4f68-8079-3796d15729ff",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:03:45.867979"
+    },
+    {
+      "id": "bd8823bb-4fb3-4c33-8263-627a952af648",
+      "name": "deneme",
+      "type": "project",
+      "path": "deneme",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:04:03.877551",
+      "updated_at": "2025-08-19T18:04:03.877551"
+    },
+    {
+      "id": "4b427f51-c5b4-4035-b0b6-9bd8f0655970",
+      "name": "main.py",
+      "type": "file",
+      "path": "deneme/main.py",
+      "parent_id": "bd8823bb-4fb3-4c33-8263-627a952af648",
+      "created_at": "2025-08-19T18:04:03.878625",
+      "updated_at": "2025-08-19T18:04:03.878625"
+    },
+    {
+      "id": "1466dcaa-f7d1-4232-841a-6bda2b30f174",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:04:15.994046"
+    },
+    {
+      "id": "bdc19ea8-5536-48e3-b055-01ef2023e4c2",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:04:16.905793"
+    },
+    {
+      "id": "14b571a8-42bf-4b1c-a50f-cb7973e6e12c",
+      "name": "yeni_dosya.py",
+      "type": "file",
+      "path": "yeni_dosya.py",
+      "parent_id": null,
+      "created_at": "2025-08-19T18:04:17.467025"
+    }
+  ]
+}
